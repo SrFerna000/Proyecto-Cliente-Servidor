@@ -1,5 +1,4 @@
 # Proyecto-Cliente-Servidor
-Alejandro Barquero
 Fabián Ramírez
 Fernando Carrillo
 -Requerimientos
